@@ -1,0 +1,1 @@
+# plugins-koalendar-free-booking-widget
