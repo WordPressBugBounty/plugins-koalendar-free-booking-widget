@@ -3,7 +3,7 @@
 Plugin Name: Koalendar | Free Booking Widget
 Plugin URI: https://Koalendar.com?utm_source=wp_plugin
 Description: Embed a FREE <a href="https://Koalendar.com?utm_source=wp_plugin" target="blank">Koalendar Online Booking Widget</a> into your site. The tag to embed is: <code>[koalendar link="your-booking-page-link"]</code>
-Version: 1.0.5
+Version: 1.0.6
 Author: Koalendar
 Author URI: https://Koalendar.com/?utm_source=wp_plugin
 License: GPL2

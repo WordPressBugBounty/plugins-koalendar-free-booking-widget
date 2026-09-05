@@ -1,8 +1,8 @@
 === Koalendar – Easy Appointment Scheduling & Booking Plugin ===
 Tags: Koalendar, booking, calendar, appointment scheduling, scheduling, online booking, reservation plugin, booking plugin, booking system, booking calendar, appointment, online scheduling, scheduler, online scheduler, appointment scheduler, scheduler app, appointment reminder, booking reminder, email reminder, client reminder, appointment planner, appointment software, booking software
 Requires at least: 2.5
-Tested up to: 6.9
-Stable tag: 1.0.5
+Tested up to: 7.1
+Stable tag: 1.0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -18,7 +18,7 @@ Built for WordPress users, Koalendar is easy to install, simple to configure, an
 
 Watch how easy it is to set up and start accepting bookings on your WordPress website:
 
-https://www.youtube.com/watch?v=SHcHdHQYX-c
+https://www.youtube.com/watch?v=L8yu_RP3_zE
 
 = Top Features =
 
@@ -184,6 +184,10 @@ Yes. Customize colors, fonts, button styles, and layout to match your WordPress 
 Yes. You can offer multiple meeting locations on the same booking page, including online meetings, phone calls, or in person meetings.
 
 == Changelog ==
+
+= 1.0.6 =
+* Update demo video.
+* Tested up to WordPress 7.1.
 
 = 1.0.4 =
 * Update plugin readme content, including demo video, FAQ, and backlog updates.
